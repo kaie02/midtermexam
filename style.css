@@ -1,18 +1,25 @@
-    body {
-          margin: 0;
-          display: flex;
-          flex-direction: column;
-          align-items: center; 
-          justify-content: flex-start; 
-          min-height: 100vh;
-          background-color: blue;
-          padding: 20px;
-          text-align: center; 
-    }
+  body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: flex-start; 
+    min-height: 100vh;
+    background-color: blue;
+    color: white; 
+    padding: 20px;
+    text-align: center; 
+    font-family: Arial, sans-serif;
+}
 
-      nav a { 
-          font-size: 15px;
-          color: yellow;
-          text-decoration: none;
-    }
-      
+nav a { 
+    font-size: 15px;
+    color: yellow;
+    text-decoration: none;
+}
+
+table {
+    background-color: white;
+    color: black;
+    margin: 20px auto;
+}
