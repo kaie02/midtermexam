@@ -5,14 +5,14 @@
           align-items: center; 
           justify-content: flex-start; 
           min-height: 100vh;
-          background-color: pink;
+          background-color: blue;
           padding: 20px;
           text-align: center; 
     }
 
       nav a { 
           font-size: 15px;
-          color: black;
+          color: yellow;
           text-decoration: none;
     }
       
